@@ -2,12 +2,12 @@
 
 Project Title
 
-A brief description of what this project does and who it's for This website is for every person who want to learn different business, finance or marketing courses that will benefit in various types of work field.
+A brief description of what this project does and who it's for 
 
+This website is for every person who want to learn different business, finance or marketing courses that will benefit in various types of work field.
 We offer everything from digital to economy courses that will take our students to the next level by adding on the knowledge they already have.
 
 Our courses are made to make a big impact where we focus on enhancing our student’s skills so they can be job-ready and dominate in the specific field of work they are studying for.
-
 
 The courses in this project are affordable and guarantees a top-quality educational experience.
 
