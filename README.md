@@ -24,8 +24,8 @@ Our motto is quantity over quality which we give in all of our courses.
 
 Authors
 @MalleNur
+
 🚀 About Me
 
 I'm a full stack developer...
-
 Studying at Code Institute at the moment.
